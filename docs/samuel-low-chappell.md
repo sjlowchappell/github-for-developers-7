@@ -3,3 +3,4 @@
 * **Location:** Montreal, QC
 * **Fav food:** Curry
 * **Hobby:** Reading classical literature
+* **Fav color:** Green
